@@ -55,7 +55,3 @@ Beyond open-source projects, I focus on enabling AI adoption within engineering 
 `Kubernetes` `Go` `Rust` `MCP` `AI Agents` `Claude Code` `Prometheus` `ArgoCD` `Helm` `GitOps` `Terraform` `Python` `TypeScript` `Linux`
 
 ---
-
-<p align="center">
-  <a href="https://github.com/mehrdadpfg"><img src="https://github-readme-stats.vercel.app/api?username=mehrdadpfg&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" /></a>
-</p>
