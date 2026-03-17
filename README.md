@@ -8,7 +8,7 @@ I work at the intersection of **platform engineering** and **AI enablement** —
 
 ### What I'm building
 
-#### [Codemem](https://github.com/mehrdadpfg/codemem) — Persistent Memory for AI Coding Agents
+#### [Codemem](https://github.com/cogniplex/codemem) — Persistent Memory for AI Coding Agents
 
 AI coding agents (Claude Code, Copilot, Cursor) lose all context between sessions. Codemem fixes that — it's a knowledge graph and semantic memory layer that gives agents deep, structured understanding of your codebase that persists across conversations.
 
