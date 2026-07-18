@@ -1,6 +1,6 @@
 # Hi, I'm Mehrdad
 
-**Senior DevOps Engineer** based in Sweden.
+**Senior Platform/SRE Engineer** based in Sweden.
 
 I work at the intersection of **platform engineering** and **AI enablement** — building the infrastructure, tooling, and secure workflows that let engineering teams adopt AI agents in production. From Kubernetes operators that optimize costs autonomously, to knowledge graphs that give coding agents persistent memory, to helping companies set up secure local development environments for AI-assisted work.
 
